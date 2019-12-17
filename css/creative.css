@@ -9768,3 +9768,7 @@ p {
   line-height: 32px;   /* within paragraph */
   margin-bottom: 300px; /* between paragraphs */
   }
+
+a:-webkit-any-link {
+  text-decoration: none;
+  }
