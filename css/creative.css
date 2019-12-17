@@ -9738,7 +9738,7 @@ header.masthead h1 {
   border-radius: 50%;
 }
 
-i.fas.fa-4x.fa-gem.text-primary.mb-4::before{
+i.fas.fa-4x.fa-paint-brush.text-primary.mb-4::before{
   color: #F50075;
 }
 
@@ -9746,7 +9746,7 @@ i.fas.fa-4x.fa-laptop-code.text-primary.mb-4::before{
   color: #F50075;
 }
 
-i.fas.fa-4x.fa-globe.text-primary.mb-4::before{
+i.fas.fa-4x.fa-lightbulb.text-primary.mb-4::before{
   color: #F50075;
 }
 i.fas.fa-4x.fa-heart.text-primary.mb-4::before{
