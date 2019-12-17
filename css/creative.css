@@ -164,10 +164,6 @@ sup {
   background-color: transparent;
 }
 
-a:hover {
-  color: #F40076;
-  text-decoration: underline;
-}
 
 a:not([href]):not([tabindex]) {
   color: inherit;
@@ -181,6 +177,15 @@ a:not([href]):not([tabindex]):hover, a:not([href]):not([tabindex]):focus {
 
 a:not([href]):not([tabindex]):focus {
   outline: 0;
+}
+
+a:link{
+  color: #542344;
+}
+
+a:hover {
+  color: #F40076;
+  text-decoration: underline;
 }
 
 pre,
